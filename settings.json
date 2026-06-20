@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "publisher-dig.gl.joinmc.link,
+    "ip": "publisher-dig.gl.joinmc.link",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
